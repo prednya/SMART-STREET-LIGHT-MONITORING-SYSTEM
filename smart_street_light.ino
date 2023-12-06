@@ -12,8 +12,8 @@ int light;
 int intensity; 
 
 const char* apiKey = "0IAORLIZBKLHXJ9W"; // write your "Write API key"
-const char* ssid = "Hotspot"; // write your "wifi name"
-const char* password = "12345678"; // write your "wifi password"
+const char* ssid = ""; // write your "wifi name"
+const char* password = ""; // write your "wifi password"
 const char* server = "api.thingspeak.com";
 WiFiClient client;
 
