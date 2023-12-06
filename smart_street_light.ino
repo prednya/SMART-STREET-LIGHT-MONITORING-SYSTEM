@@ -11,7 +11,7 @@ int safedistance;
 int light;  
 int intensity; 
 
-const char* apiKey = "0IAORLIZBKLHXJ9W"; // write your "Write API key"
+const char* apiKey = ""; // write your "Write API key"
 const char* ssid = ""; // write your "wifi name"
 const char* password = ""; // write your "wifi password"
 const char* server = "api.thingspeak.com";
